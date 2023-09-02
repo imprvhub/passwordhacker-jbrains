@@ -1,4 +1,3 @@
-passwordhacker-jbrains
 All sorts of creatures lurk around the Internet, including trolls, pirates, miners – and hackers. In this project we’ll wear the hat of a real hacker. We must connect to a secret server without knowing the password. Our task is to write a Python program that can hack this password, and do so in the quickest way possible.
 
 Project: PasswordHacker-JBrains
